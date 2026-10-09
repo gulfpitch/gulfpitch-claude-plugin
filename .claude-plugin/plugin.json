@@ -1,0 +1,15 @@
+{
+  "name": "gulfpitch",
+  "displayName": "GulfPitch",
+  "version": "1.0.0",
+  "description": "Find startup funding in the six GCC countries from GulfPitch's verified map: VC funds, accelerators, grants, government programmes, angel networks, corporate VC and loans, each checked monthly against the organisation's own website and answered with a link to its page on gulfpitch.com.",
+  "author": {
+    "name": "Hilarion LLC",
+    "email": "hello@gulfpitch.com",
+    "url": "https://gulfpitch.com"
+  },
+  "homepage": "https://gulfpitch.com/connect",
+  "repository": "https://github.com/gulfpitch/gulfpitch-claude-plugin",
+  "license": "MIT",
+  "keywords": ["startup funding", "GCC", "Gulf", "Saudi Arabia", "UAE", "Qatar", "Kuwait", "Oman", "Bahrain", "accelerator", "venture capital", "grants", "founders"]
+}

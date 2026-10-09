@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gulfpitch": {
+      "type": "http",
+      "url": "https://gulfpitch.com/mcp"
+    }
+  }
+}

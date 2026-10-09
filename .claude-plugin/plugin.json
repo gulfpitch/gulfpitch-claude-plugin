@@ -11,5 +11,21 @@
   "homepage": "https://gulfpitch.com/connect",
   "repository": "https://github.com/gulfpitch/gulfpitch-claude-plugin",
   "license": "MIT",
-  "keywords": ["startup funding", "GCC", "Gulf", "Saudi Arabia", "UAE", "Qatar", "Kuwait", "Oman", "Bahrain", "accelerator", "venture capital", "grants", "founders"]
+  "keywords": [
+    "startup funding",
+    "GCC",
+    "Gulf",
+    "Saudi Arabia",
+    "UAE",
+    "Qatar",
+    "Kuwait",
+    "Oman",
+    "Bahrain",
+    "accelerator",
+    "venture capital",
+    "grants",
+    "founders"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://gulfpitch.com/privacy"
 }
